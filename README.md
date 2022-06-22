@@ -9,10 +9,6 @@
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeeb11&label=Profile%20views&color=blueviolet&style=flat" alt="rakeeb11" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rakeebbb" target="blank"><img src="https://img.shields.io/twitter/follow/rakeebbb?logo=twitter&style=for-the-badge" alt="rakeebbb" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeeb11" alt="rakeeb" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
