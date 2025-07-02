@@ -31,7 +31,6 @@ TODO: Configure blog post via https://github.com/gautamkrishnar/blog-post-workfl
 <a href="https://twitter.com/rakeebbb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakeeb" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rakeeb-rajbhandari-0b991b96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakeeb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2247689/rakeeb-rajbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2247689" height="30" width="40" /></a>
-<a href="https://issuu.com/rakeeb11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2247689" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
