@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working a Senior Staff Software Engineer at Insulet
+- 🔭 I’m currently working as a Software Engineer at Insulet
 - 🌱 I’m currently learning Agentic AI, developing libraries and building out CI/CD pipelines for them.
 - 💬 Ask me about **Android, Kotlin, Design Patterns, Application Architecture**
 
