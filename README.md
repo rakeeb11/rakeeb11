@@ -2,7 +2,7 @@
   Profile template generated via https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 <h1 align="center">Hello 👋, I'm Rakeeb</h1>
-<h3 align="center">I develop Android applications.</h3>
+<h3 align="center">I develop applications.</h3>
 
 <!-- 
   Configured profile count via https://github.com/antonkomarev/github-profile-views-counter
@@ -13,14 +13,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working a Senior Software Engineer at Insulet
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working a Senior Staff Software Engineer at Insulet
+- 🌱 I’m currently learning Agentic AI, developing libraries and building out CI/CD pipelines for them.
 - 💬 Ask me about **Android, Kotlin, Design Patterns, Application Architecture**
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!-- 
 TODO: Configure blog post via https://github.com/gautamkrishnar/blog-post-workflow
@@ -30,7 +25,6 @@ TODO: Configure blog post via https://github.com/gautamkrishnar/blog-post-workfl
 <p align="left">
 <a href="https://twitter.com/rakeebbb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakeeb" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rakeeb-rajbhandari-0b991b96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakeeb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2247689/rakeeb-rajbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2247689" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
