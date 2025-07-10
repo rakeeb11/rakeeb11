@@ -2,7 +2,7 @@
   Profile template generated via https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 <h1 align="center">Hello 👋, I'm Rakeeb</h1>
-<h3 align="center">I develop applications.</h3>
+<h3 align="center">I develop applications</h3>
 
 <!-- 
   Configured profile count via https://github.com/antonkomarev/github-profile-views-counter
