@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at Insulet
 - 🌱 I’m currently learning Agentic AI, developing libraries and building out CI/CD pipelines for them.
-- 💬 Ask me about **Android, Kotlin, Design Patterns, Application Architecture**
+- 💬 Favorite topics: **Design Patterns & Application Architecture, CI/CD & Tooling**
 
 <!-- 
 TODO: Configure blog post via https://github.com/gautamkrishnar/blog-post-workflow
