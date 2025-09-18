@@ -14,7 +14,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working as a Software Engineer at Insulet
-- 🌱 I’m currently learning Agentic AI, developing libraries, writing gradle plugins and building out CI/CD pipelines for them.
+- 🌱 I’m currently learning Agentic AI, and writing gradle plugins.
 - 💬 Favorite topics: **Design Patterns & Application Architecture, CI/CD & Tooling**
 
 <!-- 
