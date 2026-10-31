@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m working as a Software Engineer at Insulet
+- 🔭 I’m a Software Engineer at Insulet
 - 🌱 I’m learning to write gradle plugins, compiler plugins and transpilers.
 - 💬 Favorite topics: **Designing Systems & Architecture, CI/CD & Tooling**
 
