@@ -13,9 +13,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working as a Software Engineer at Insulet
-- 🌱 I’m currently learning Agentic AI, and writing gradle plugins.
-- 💬 Favorite topics: **Design Patterns & Application Architecture, CI/CD & Tooling**
+- 🔭 I’m working as a Software Engineer at Insulet
+- 🌱 I’m learning to write gradle plugins, compiler plugins and transpilers.
+- 💬 Favorite topics: **Designing Systems & Architecture, CI/CD & Tooling**
 
 <!-- 
 TODO: Configure blog post via https://github.com/gautamkrishnar/blog-post-workflow
